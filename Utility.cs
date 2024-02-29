@@ -620,7 +620,7 @@ namespace MatchZy
             {
                 StartLive();
             }
-            Server.PrintToChatAll($"{chatPrefix} {ChatColors.Green}MatchZy{ChatColors.Default} Plugin by {ChatColors.Green}WD-{ChatColors.Default}");
+            Server.PrintToChatAll($"{chatPrefix} {ChatColors.Green}discord.gg/luthien{ChatColors.Default} Maç Sunucusu {ChatColors.Green}İyi Oyunlar Diler.{ChatColors.Default}");
         }
 
         public void HandleClanTags() {
